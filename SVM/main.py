@@ -11,6 +11,7 @@ import time
 import svmMLiA
 
 if __name__ == '__main__':
+	
 	# 读取数据
 	dataArr, labelArr = svmMLiA.loadDataSet("./testSet.txt")
 	print("following is the data: ")
