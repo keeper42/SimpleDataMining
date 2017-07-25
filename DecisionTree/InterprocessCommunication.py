@@ -1,3 +1,7 @@
+# Author: LJF
+# Coding: UTF-8
+# The version of python: 3.5
+# Created time: 2017/07/24
 
 #
 # 进程通信
