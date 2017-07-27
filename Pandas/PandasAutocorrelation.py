@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 import matplotlib
 
 from pandas.tools.plotting import autocorrelation_plot
+
 x = np.linspace(-9 * np.pi, 9 *np.pi, num = 1000)
 noise = 0.7 * np.random.rand(1000)
 y = noise + 0.3 * np.sin(x)
